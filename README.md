@@ -1,4 +1,4 @@
-# graphs_kartik
+# Coding
 
 string questions done:
 1. DI string
