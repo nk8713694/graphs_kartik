@@ -6,6 +6,9 @@ string questions done:
 3. hand of straights
 4 kmp algorithm code 
 5. NHAY spoj  it is based on KMP algorithm only
+6.Count good substring
+6. Title String 59C
+7. Tavas and Malekas
 
 
 
